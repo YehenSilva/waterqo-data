@@ -94,5 +94,17 @@
     "icon": "🌡️",
     "image": "",
     "desc": "Wireless digital pool thermometer. Floating sensor with remote display."
+  },
+  {
+    "id": 9,
+    "brand": "emaux",
+    "cat": "pumps",
+    "name": "testing",
+    "model": "testing",
+    "price": 1.212121212121212e+21,
+    "tag": "",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "testing"
   }
 ]

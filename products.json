@@ -82,5 +82,29 @@
     "icon": "🧂",
     "image": "",
     "desc": "25g/hr salt chlorinator with intelligent pH and ORP dosing."
+  },
+  {
+    "id": 8,
+    "brand": "minder",
+    "cat": "accessories",
+    "name": "Minder Digital Pool Thermometer",
+    "model": "PMT-100",
+    "price": 4500,
+    "tag": "",
+    "icon": "🌡️",
+    "image": "",
+    "desc": "Wireless digital pool thermometer. Floating sensor with remote display."
+  },
+  {
+    "id": 9,
+    "brand": "emaux",
+    "cat": "pumps",
+    "name": "testing",
+    "model": "testing",
+    "price": 12112121221,
+    "tag": "",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "testing"
   }
 ]

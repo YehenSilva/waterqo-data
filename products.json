@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "brand": "emaux",
+    "cat": "pumps",
+    "name": "EP50 Single Speed Pump",
+    "model": "EP50",
+    "price": 28500,
+    "tag": "popular",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "0.5 HP self-priming pump for pools up to 40,000L. Corrosion-resistant housing."
+  },
+  {
+    "id": 2,
+    "brand": "emaux",
+    "cat": "pumps",
+    "name": "EP75 Single Speed Pump",
+    "model": "EP75",
+    "price": 34000,
+    "tag": "",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "0.75 HP centrifugal pump. High-flow impeller, pre-filter basket."
+  },
+  {
+    "id": 3,
+    "brand": "emaux",
+    "cat": "pumps",
+    "name": "E-Power Variable Speed Pump",
+    "model": "E-Power VS",
+    "price": 89000,
+    "tag": "new",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "Up to 80% energy savings vs single speed. Digital display control."
+  },
+  {
+    "id": 4,
+    "brand": "laswim",
+    "cat": "pumps",
+    "name": "WLP Centrifugal Pump",
+    "model": "WLP-075",
+    "price": 31000,
+    "tag": "",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "0.75 HP high-performance plastic pump. Salt water compatible."
+  },
+  {
+    "id": 5,
+    "brand": "astral",
+    "cat": "pumps",
+    "name": "Astral Viron P320 XT Pump",
+    "model": "P320 XT",
+    "price": 52000,
+    "tag": "popular",
+    "icon": "⚙️",
+    "image": "",
+    "desc": "Variable speed pump with EcoStar technology. Significant energy savings for residential pools."
+  },
+  {
+    "id": 6,
+    "brand": "minder",
+    "cat": "accessories",
+    "name": "Minder Automatic Pool Cleaner",
+    "model": "APC-300",
+    "price": 45000,
+    "tag": "new",
+    "icon": "🤖",
+    "image": "",
+    "desc": "Robotic pool cleaner. Cleans floor, walls and waterline. 3hr cycle, top-load filter basket."
+  },
+  {
+    "id": 7,
+    "brand": "astral",
+    "cat": "chlorinators",
+    "name": "Astral Viron eQuilibrium",
+    "model": "eQ25",
+    "price": 62000,
+    "tag": "new",
+    "icon": "🧂",
+    "image": "",
+    "desc": "25g/hr salt chlorinator with intelligent pH and ORP dosing."
+  },
+  {
+    "id": 8,
+    "brand": "minder",
+    "cat": "accessories",
+    "name": "Minder Digital Pool Thermometer",
+    "model": "PMT-100",
+    "price": 4500,
+    "tag": "",
+    "icon": "🌡️",
+    "image": "",
+    "desc": "Wireless digital pool thermometer. Floating sensor with remote display."
+  }
+]
